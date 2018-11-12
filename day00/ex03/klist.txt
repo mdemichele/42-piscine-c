@@ -1,0 +1,5 @@
+Credentials cache: API:36705
+        Principal: mdemiche@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 23 20:11:57 2018  Oct 24 06:11:57 2018  krbtgt/42.US.ORG@42.US.ORG
